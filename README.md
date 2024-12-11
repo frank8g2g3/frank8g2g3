@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const frank8g2g3 = {
-  pronouns: "she",
+  pronouns: "hello world !",
   code: [JAVA],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "No Code"
