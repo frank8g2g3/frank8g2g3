@@ -36,10 +36,8 @@ const frank8g2g3 = {
 ```
 
 <p align="left">
-<a href="https://.com/frank8g2g3">
-  <img height="180em" src="https://-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frank8g2g3&layout=compact&langs_count=10&theme=buefy"/>
-  <img height="180em" src="https://-readme-stats-eight-theta.vercel.app/api?username=frank8g2g3&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/frank8g2g3">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frank8g2g3&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frank8g2g3&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-
