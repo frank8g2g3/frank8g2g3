@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p><em>Software Enginner </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/frank8g2g3?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub frank8g2g3](https://img.shields.io/github/followers/frank8g2g3?label=follow&style=social)](https://github.com/frank8g2g3)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/frank8g2g3)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/frank8g2g3)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/frank8g2g3)](https://badges.pufler.dev)
@@ -36,9 +36,9 @@ const frank8g2g3 = {
 ```
 
 <p align="left">
-<a href="https://github.com/frank8g2g3">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frank8g2g3&layout=compact&langs_count=10&theme=buefy"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=frank8g2g3&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<a href="https://.com/frank8g2g3">
+  <img height="180em" src="https://-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frank8g2g3&layout=compact&langs_count=10&theme=buefy"/>
+  <img height="180em" src="https://-readme-stats-eight-theta.vercel.app/api?username=frank8g2g3&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
